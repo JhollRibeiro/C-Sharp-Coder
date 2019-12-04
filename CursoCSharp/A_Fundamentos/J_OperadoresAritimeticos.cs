@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp._1_Fundamentos
+namespace CursoCSharp.A_Fundamentos
 {
-    class _10_OperadoresAritimeticos
+    class J_OperadoresAritimeticos
     {
         public static void Executar()
         {

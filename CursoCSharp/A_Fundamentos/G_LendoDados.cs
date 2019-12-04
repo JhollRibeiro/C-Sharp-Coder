@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-namespace CursoCSharp._1_Fundamentos
+namespace CursoCSharp.A_Fundamentos
 {
-    class _7_LendoDados
+    class G_LendoDados
     {
         public static void Executar()
         {

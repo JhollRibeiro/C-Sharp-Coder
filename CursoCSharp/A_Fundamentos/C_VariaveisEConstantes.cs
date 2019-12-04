@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp._1_Fundamentos
+namespace CursoCSharp.A_Fundamentos
 {
-    class _3_VariaveisEConstantes
+    class C_VariaveisEConstantes
     {
         public static void Executar()
         {

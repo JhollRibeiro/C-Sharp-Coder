@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp._1_Fundamentos
+namespace CursoCSharp.A_Fundamentos
 {
     /// <summary>
     /// 
     /// </summary>
-    class _2_Comentarios
+    class B_Comentarios
     {
         public static void Executar()
         {

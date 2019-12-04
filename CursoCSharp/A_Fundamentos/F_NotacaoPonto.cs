@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp._1_Fundamentos
+namespace CursoCSharp.A_Fundamentos
 {
-    class _6_NotacaoPonto
+    class F_NotacaoPonto
     {
         public static void Executar()
         {
