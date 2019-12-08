@@ -24,7 +24,7 @@ namespace CursoCSharp.C_ClassesEMetodos
         }
     }
 
-    class K_Readonly
+    class Readonly
     {
         static public void Executar()
         {

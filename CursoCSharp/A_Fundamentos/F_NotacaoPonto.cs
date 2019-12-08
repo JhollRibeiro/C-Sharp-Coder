@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class F_NotacaoPonto
+    class NotacaoPonto
     {
         public static void Executar()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class F_DesafioAtributo
+    class DesafioAtributo
     {
         int a = 10;
         public static void Executar()
@@ -26,7 +26,7 @@ namespace CursoCSharp.C_ClassesEMetodos
             //Console.WriteLine($"o valor da varilavel a é: {a}");
             //Console.WriteLine($"o valor da varilavel a é: {F_DesafioAtributo.a}");
 
-            var desafio = new F_DesafioAtributo();
+            var desafio = new DesafioAtributo();
             Console.WriteLine($"o valor da varilavel 'a' é: {desafio.a}");
 
         }
@@ -51,7 +51,7 @@ namespace CursoCSharp.C_ClassesEMetodos
              */
             //Console.WriteLine($"o valor da varilavel a é: {F_DesafioAtributo.a}");
 
-            var desafio = new F_DesafioAtributo();
+            var desafio = new DesafioAtributo();
             Console.WriteLine($"o valor da varilavel 'a' é: {desafio.a}");
 
         }

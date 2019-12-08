@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class A2_Pessoa
+    class Pessoa
     {
         public string Nome;
         public int Idade;

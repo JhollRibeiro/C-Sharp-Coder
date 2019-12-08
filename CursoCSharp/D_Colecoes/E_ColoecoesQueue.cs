@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CursoCSharp.D_Colecoes
 {
-    class E_ColoecoesQueue
+    class ColoecoesQueue
     {
         public static void Executar()
         {

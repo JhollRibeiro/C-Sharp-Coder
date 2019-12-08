@@ -1,0 +1,59 @@
+﻿
+*** Pilares da Programação Orientada a Objetos ***
+
+	Não necessáriamente nesta Ordem
+
+		1- ABSTRAÇÃO
+			Abstrair as complexidades do mundo real e trazer para dentro do software somente
+			o que interessa, o que é relevante.
+				1- Identificação
+				2- Atributos
+				3- Comportamentos
+
+		2- HERANÇA
+			Retrata orincipalmente o reuso do código.
+			Formas de reuso de código: Copia e cola, Herança e Composição
+				1- CTRL+C CTRL+V
+					Aqui nós ferimos um princípio chamado DRY (Don't Repeat Yourself)
+				2- Herança
+					Imagine a relação 'É UM(A)', por exemplo, 
+						Corolla É UM carro;
+						Eu SOU UMA pessoa;
+						Agape É UM livro;
+					Como seria o reuso por Herança?
+					Define-se uma Classe com atributos e comportamentos o mais generica possivel
+					para que outras classes possam herdar esses mebros e também conter os seus próprios.
+					Outra coisa, é que o C# não permite heranças multiplas, ou seja, 
+					uma Classe só pode herdar uma unica vez, já na Composição pode ser multipla.
+				3- Composição
+					Imagine a relação 'TEM UM(A)'.por exemplo
+						Uma organização 'TEM ALGUMAS' empresas;
+						Uma empresa 'TEM ALGUNS' setores;
+						Um carro 'TEM UM' motor;
+					Como seria o reuso por Composição?
+					Uma Classe tem outra Classe como um de seus parêmetros.
+
+		3- ENCAPSULAMENTO
+			Capacidade de tornar publico somente os mesmbros que realmente necessitam ser publicos,
+			para que não haja uma dependencia grande entre as Classes que utilizam 
+			membros publicos de outras Classes.
+				1- Public - todos dentro do sistema pode acessar esse membro
+				2- Internal - Apenas quem estiver dentro do projeto pode acessar esse membro
+				3- Protected - O acesso a esse membro é transmitido via Herança
+				4- Private - Visivel somente dentro da Classe
+
+		4- POLIMORFISMO
+			POLI = multiplas MORFISMO = formas
+			Qualidade ou estado de ser capaz de assumir diferentes formas.
+				
+				POLIMORFISMO ESTÁTICO = multiplas formas de chamar o mesmo método ou seja, 
+				metodos com o mesmo nome, porém com assinaturas diferentes;
+				
+				POLIMORFISMO DINAMICO = usando o conceito de Herança, quando eu instâncio um objeto filho,
+				eu não posso transformá-lo em outro objeto do tipo filho, porém, 
+				quando eu uso a Classe pai para instanciar um objeto filho, eu posso fazer com esse objeto filho
+				assuma a forma de outro objeto filho diferente.
+				Outro exemplo, é na chamada dos métodos, por exemplo, se eu tenho um método que tem como
+				parêmtro um objeto do tipo filho, eu só posso chamar esse método passando objetos desse tipo,
+				quando que se o parâmetro for do tipo pai, eu já posso chamar esse mesmo método 
+				passando como parêmetro qualquer objeto do tipo filho.

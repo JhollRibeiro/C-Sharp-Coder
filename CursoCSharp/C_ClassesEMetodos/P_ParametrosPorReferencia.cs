@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class P_ParametrosPorReferencia
+    class ParametrosPorReferencia
     {
         public static void AlterarRef(ref int numero)
         {

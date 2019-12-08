@@ -41,7 +41,7 @@ namespace CursoCSharp.C_ClassesEMetodos
             Preco = preco;
         }
     }
-    class J_Props
+    class Props
     {
         public static void Executar()
         {

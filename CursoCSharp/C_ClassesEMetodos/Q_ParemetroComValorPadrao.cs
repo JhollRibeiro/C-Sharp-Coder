@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class Q_ParemetroComValorPadrao
+    class ParemetroComValorPadrao
     {
         public static int Somar(int a = 1, int b = 1)
         {

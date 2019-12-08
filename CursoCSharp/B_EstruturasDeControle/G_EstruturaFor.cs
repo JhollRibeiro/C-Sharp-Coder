@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.B_EstruturasDeControle
 {
-    class G_EstruturaFor
+    class EstruturaFor
     {
         public static void Executar()
         {

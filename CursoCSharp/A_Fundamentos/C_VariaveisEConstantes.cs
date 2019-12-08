@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class C_VariaveisEConstantes
+    class VariaveisEConstantes
     {
         public static void Executar()
         {

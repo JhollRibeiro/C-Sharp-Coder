@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.D_Colecoes
 {
-    class D_ColecoesSet
+    class ColecoesSet
     {
         public static void Executar()
         {

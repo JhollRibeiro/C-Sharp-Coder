@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class I_Conversoes
+    class Conversoes
     {
         public static void Executar()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.D_Colecoes
 {
-    class F_Igualdade
+    class Igualdade
     {
         public static void Executar()
         {

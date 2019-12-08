@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class D_MetodosEstaticos
+    class MetodosEstaticos
     {
         public class CalculadoraEstatica
         {
@@ -25,7 +25,7 @@ namespace CursoCSharp.C_ClassesEMetodos
             /*
              * MÉTODOS ESTÁTICOS *
              * A diferença entre um método Estático e um método não Estático
-             * é que o Estático só pode ser acessado somente a partir Classe dessa forma: 
+             * é que o Estático só pode ser acessado somente a partir Classe, dessa forma: 
              * 'NomeDaClasse.NomeDoMetotdo()',
              * ou seja, esse método pertence à Classe não ao Objeto.
              * 

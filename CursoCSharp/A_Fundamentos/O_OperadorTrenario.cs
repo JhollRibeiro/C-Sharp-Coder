@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class O_OperadorTrenario
+    class OperadorTrenario
     {
         public static void Executar()
         {

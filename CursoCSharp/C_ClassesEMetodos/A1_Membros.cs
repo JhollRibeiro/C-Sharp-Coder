@@ -4,11 +4,11 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class A1_Membros
+    class Membros
     {
         public static void Executar()
         {
-            A2_Pessoa sicrano = new A2_Pessoa();
+            Pessoa sicrano = new Pessoa();
             sicrano.Nome = "Renato";
             sicrano.Idade = 21;
 
@@ -18,7 +18,7 @@ namespace CursoCSharp.C_ClassesEMetodos
             sicrano.Zerar();
             sicrano.ApresentarNoConsole();
 
-            var fulano = new A2_Pessoa();
+            var fulano = new Pessoa();
             fulano.Nome = "Beto";
             fulano.Idade = 21;
 

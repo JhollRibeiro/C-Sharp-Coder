@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class K_OperadoresRelacionais
+    class OperadoresRelacionais
     {
         public static void Executar()
         {

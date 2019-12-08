@@ -64,7 +64,7 @@ namespace CursoCSharp.C_ClassesEMetodos
             Cilindrada = cilindrada;
         }
     }
-    class I_GetSet
+    class GetSet
     {
         public static void Executar()
         {

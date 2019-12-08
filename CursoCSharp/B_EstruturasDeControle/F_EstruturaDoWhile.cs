@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.B_EstruturasDeControle
 {
-    class F_EstruturaDoWhile
+    class EstruturaDoWhile
     {
         public static void Executar()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class C_MetodosComRetorno
+    class MetodosComRetorno
     {
         class CalculadoraComum
         {

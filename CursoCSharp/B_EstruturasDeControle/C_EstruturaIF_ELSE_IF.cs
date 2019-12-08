@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.B_EstruturasDeControle
 {
-    class C_EstruturaIF_ELSE_IF
+    class EstruturaIF_ELSE_IF
     {
         public static void Executar()
         {

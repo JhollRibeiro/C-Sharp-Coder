@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.B_EstruturasDeControle
 {
-    class J_UsandoContinue
+    class UsandoContinue
     {
         public static void Executar()
         {

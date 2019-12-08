@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class M_OperadoresAtribuicao
+    class OperadoresAtribuicao
     {
         public static void Executar()
         {

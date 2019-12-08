@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class O_ValorVsReferencia
+    class ValorVsReferencia
     {
         public class Dependente
         {

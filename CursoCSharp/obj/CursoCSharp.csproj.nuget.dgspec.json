@@ -1,17 +1,72 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joao\\Source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joao\\Source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joao\\Source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Joao\\Source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joao\\Source\\C-Sharp_Cod3r\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj",
+        "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +97,7 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

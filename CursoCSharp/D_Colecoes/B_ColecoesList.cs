@@ -32,7 +32,7 @@ namespace CursoCSharp.D_Colecoes
         }
     }
 
-    class B_ColecoesList
+    class ColecoesList
     {
         public static void Executar()
         {

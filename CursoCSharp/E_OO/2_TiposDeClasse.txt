@@ -1,0 +1,70 @@
+﻿
+CALSSE ESTÁTICA
+	* Uma classe static é basicamente o mesmo que uma classe não estática, mas há uma diferença: 
+	  uma classe estática não pode ser instanciada. Em outras palavras, você não pode usar o operador new 
+	  para criar uma variável do tipo de classe. 
+	* Como não há nenhuma variável de instância, você acessa os membros de uma classe estática usando o 
+	  próprio nome de classe. Por exemplo, se houver uma classe estática chamada UtilityClass com 
+	  um método público chamado MethodA, chame o método, como mostra o exemplo a seguir:
+		UtilityClass.MethodA();
+
+	* Uma classe estática pode ser usada como um contêiner conveniente para conjuntos de métodos que operam 
+	  apenas em parâmetros de entrada e não precisam obter ou definir campos de instância internos. 
+	  Por exemplo, na biblioteca de classes .NET Framework, a classe estática System.Math contém métodos que 
+	  executam operações matemáticas, sem a necessidade de armazenar ou recuperar dados que são exclusivos de 
+	  uma determinada instância da classe Math. Ou seja, você aplica os membros da classe especificando o 
+	  nome de classe e o nome do método, conforme mostrado no exemplo a seguir.
+		double dub = -3.14;  
+		Console.WriteLine(Math.Abs(dub));  
+		Console.WriteLine(Math.Floor(dub));  
+		Console.WriteLine(Math.Round(Math.Abs(dub))); 
+
+CLASSE "CONCRETA/COMPLETA"
+	* Uma classe 100% implementada/completa, ou seja, todos os seus membros (métodos) estão completos.
+
+CLASSE ABSTRATA
+	* Uma classe que pode ou nao estar 100% implementada/completa.
+	* É uma Classe "inacabada", ops... pode ou não ser inacabada, ou seja, não tem ou pode não ter 
+	  todos os seus membros totalmente definidos.
+	* Não é possivel instaciar um objeto de uma Classe abstrata, sendo assim, ela é feita para ser Classe Pai, 
+	  deve ser herdada.
+	* Seus métodos podem ser completos ou não, ou seja, pode ou não ter o corpo do método.
+		Exemplo sem corpo: 'public abstract void Imprimir();'
+		Exemplo com corpo: 'public void Imprimir() { // código do método }'
+	* Uma classe concreta que herda uma classe abstrata, deverá obrigatóriamente implementar/sobreescrever
+	  todos os métodos abstratos.
+	* Caso uma classe concreta tenha herdado uma classe abstrata e implementado os métodos abstratos 
+	  e essa classe seja uma classe intermediária, ou seja, na hierarquia ela não é a ultima, a ultima classe 
+	  da hierarquia nao precisa implementar esses métodos, pois essa ultima classe já os recebeu por herança
+	  da classe intermediária.
+
+INTERFACE
+	* Por padrão o nome de uma interface com a letra 'I'.
+	* Seus métodos são 100% não implementados/completos.
+	* Deiferentemente de classes, uma interface pode ser "herdada" multiplas vezes, 
+	  bastando usar o separador virgula (,).
+	  (na verdade não se herda uma interface, se impelemnta, pois quem a implementa nao recebe seus membros) 
+	* Diferentemente de uma classe abstrata, uma interface não pode ter 
+	  seus membros (métodos) definidos/completos
+	* Uma interface pode implementar uma ou mais interfaces.
+	* Como 100% dos métodos de uma interface são abstratos, eu não posso usar nenhum modificador de acesso,
+	  pois implicitamente ele já é abstrato, caso eu use um modificador isso acarretará em um erro.
+	* Como os 100% dos métodos de uma interface devem ser implementado/completados 
+	  por quem a implementa, eu nao posso usar o modificador 'public' ou qualquer outro,
+	  pois implicitamente seus métodos já são públicos, caso eu use um modificador isso acarretará em um erro.
+	* ...sendo assim,
+	  A implementação de um método de uma interface deve conter somente sua assinatura, ou seja,
+	  o tipo de seu retorno, seu nome e seus parâmetros, caso necessite.
+	  Exemplo: 
+		'int Operacao(int a, int b);' 
+		'void Imprimir();'
+	* Já vimos que quem implementa uma interface deve obrigatoriamente implementar seus métodos,
+	  porém, a implementação desse método deve conter o modificador 'public', pois também como já vimos 
+	  todos os métodos de uma interface são públicos.
+
+CLASSE SELADA
+	* Uma classe selada nao pode ser herdada.
+	* Uma vez que esse tipo de classe nao pode ser herdado,
+	  os métodos de uma classe selada não podem ser sobrescritos.
+	* Métodos marcados como selados não podem ser sobrescritos, porem, podem ser ocultados 
+	  usando a palavra reservada 'new' para assim serem "sobrescritos".

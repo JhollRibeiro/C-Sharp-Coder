@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class N_StructVsClasse
+    class StructVsClasse
     {
         public struct SPonto
         {

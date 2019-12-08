@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class E_AtributosEstaticos
+    class AtributosEstaticos
     {
         public class Produto
         {

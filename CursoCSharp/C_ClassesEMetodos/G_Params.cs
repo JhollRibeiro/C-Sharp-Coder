@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class G_Params
+    class Params
     {
         public static void Recepcionar(params string[] pessoas)
         {

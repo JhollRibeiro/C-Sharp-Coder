@@ -28,7 +28,7 @@ namespace CursoCSharp.C_ClassesEMetodos
         public Genero GeneroDoFilme;
         public Genero2 Genero2;
     }
-    class L_ExemploEnum
+    class ExemploEnum
     {
         public static void Executar()
         {

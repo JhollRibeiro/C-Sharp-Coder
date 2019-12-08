@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class H_ParametrosNomeados
+    class ParametrosNomeados
     {
         public static void Formatar(int dia, int mes, int ano)
         {

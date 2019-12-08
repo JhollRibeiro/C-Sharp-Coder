@@ -7,7 +7,7 @@ namespace CursoCSharp.A_Fundamentos
     /// <summary>
     /// 
     /// </summary>
-    class B_Comentarios
+    class Comentarios
     {
         public static void Executar()
         {

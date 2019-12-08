@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class G_LendoDados
+    class LendoDados
     {
         public static void Executar()
         {

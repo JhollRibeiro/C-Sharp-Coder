@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.B_EstruturasDeControle
 {
-    class I_UsandoBreak
+    class UsandoBreak
     {
         public static void Executar()
         {

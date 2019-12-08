@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.D_Colecoes
 {
-    class G_ColecoesStack
+    class ColecoesStack
     {
         public static void Executar()
         {

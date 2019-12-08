@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class A_PrimeiroPrograma
+    class PrimeiroPrograma
     {
         public static void Executar()
         {

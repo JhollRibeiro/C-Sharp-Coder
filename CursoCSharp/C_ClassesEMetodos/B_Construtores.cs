@@ -17,7 +17,7 @@ namespace CursoCSharp.C_ClassesEMetodos
         }
         public Carro(){ }
     }
-    class B_Construtores
+    class Construtores
     {
         public static void Executar()
         {

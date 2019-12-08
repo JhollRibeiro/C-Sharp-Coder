@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class D_Inferencia
+    class Inferencia
     {
         public static void Executar()
         {

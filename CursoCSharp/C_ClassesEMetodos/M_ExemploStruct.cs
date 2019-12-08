@@ -27,7 +27,7 @@ namespace CursoCSharp.C_ClassesEMetodos
         }
     }
 
-    class M_ExemploStruct
+    class ExemploStruct
     {
         public static void Executar()
         {

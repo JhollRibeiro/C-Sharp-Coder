@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.D_Colecoes
 {
-    class A_Arrays
+    class Arrays
     {
         public static void Executar()
         {

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.B_EstruturasDeControle
 {
-    class D_EstruturaSwitch
+    class EstruturaSwitch
     {
         public static void Executar()
         {

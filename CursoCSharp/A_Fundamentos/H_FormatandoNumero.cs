@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class H_FormatandoNumero
+    class FormatandoNumero
     {
         public static void Executar()
         {

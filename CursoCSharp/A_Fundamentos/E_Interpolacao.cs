@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CursoCSharp.A_Fundamentos
 {
-    class E_Interpolacao
+    class Interpolacao
     {
         public static void Executar()
         {
