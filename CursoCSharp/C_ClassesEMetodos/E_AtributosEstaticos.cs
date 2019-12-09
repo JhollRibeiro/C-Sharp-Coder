@@ -4,28 +4,29 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
+    public class Produto
+    {
+        public string Nome;
+        public double Preco;
+        public static double Desconto = 0.1;
+
+        public Produto(string nome, double preco, double desconto)
+        {
+            Nome = nome;
+            Preco = preco;
+            Desconto = desconto;
+        }
+
+        public Produto() { }
+
+        public double CalcularDesconto()
+        {
+            return Preco - Preco * Desconto;
+        }
+    }
+
     class AtributosEstaticos
     {
-        public class Produto
-        {
-            public string Nome;
-            public double Preco;
-            public static double Desconto = 0.1;
-
-            public Produto(string nome, double preco, double desconto)
-            {
-                Nome = nome;
-                Preco = preco;
-                Desconto = desconto;
-            }
-
-            public Produto() { }
-
-            public double CalcularDesconto()
-            {
-                return Preco - Preco * Desconto;
-            }
-        }
         public static void Executar()
         {
             /*

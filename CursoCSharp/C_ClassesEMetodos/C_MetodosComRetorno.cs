@@ -4,8 +4,6 @@ using System.Text;
 
 namespace CursoCSharp.C_ClassesEMetodos
 {
-    class MetodosComRetorno
-    {
         class CalculadoraComum
         {
             public int Somar(int a, int b)
@@ -58,6 +56,8 @@ namespace CursoCSharp.C_ClassesEMetodos
             }
         }
 
+    class MetodosComRetorno
+    {
         public static void Executar()
         {
             var calculadoraComum = new CalculadoraComum();

@@ -9,6 +9,7 @@ using CursoCSharp.E_OO;
 using CursoCSharp.F_MetodosEFuncoes;
 using CursoCSharp.G_Excecoes;
 using CursoCSharp.H_Api;
+using CursoCSharp.I_TopicosAvancados;
 
 namespace CursoCSharp
 {
@@ -105,10 +106,22 @@ namespace CursoCSharp
                 #endregion
 
                 #region Explorando a API do C#
-                { "Primeiro Arquivo - Exceções", PrimeiroArquivo.Executar},
-                { "Lendo Arquivos - Exceções", LendoArquivos.Executar},
-                { "Exemplo File-Info - Exceções", ExemploFileInfo.Executar},
-                { "Diretórios - Exceções", Diretorios.Executar},
+                { "Primeiro Arquivo - Explorando a API do C#", PrimeiroArquivo.Executar},
+                { "Lendo Arquivos - Explorando a API do C#", LendoArquivos.Executar},
+                { "Exemplo FileInfo - Explorando a API do C#", ExemploFileInfo.Executar},
+                { "Diretórios - Explorando a API do C#", Diretorios.Executar},
+                { "Exemplo DirectoryInfo - Explorando a API do C#", ExemploDirectoryInfo.Executar},
+                { "Exemplo Path - Explorando a API do C#", ExemploPath.Executar},
+                { "Exemplo DateTime - Explorando a API do C#", ExemploDateTime.Executar},
+                { "Exemplo TimeSpan - Explorando a API do C#", ExemploTimeSpan.Executar},
+                #endregion
+                
+                #region Tópicos Avançados
+                { "LINQ #01 - Tópicos Avançados", LINQ1.Executar},
+                { "LINQ #02 - Tópicos Avançados", LINQ2.Executar},
+                { "Nullables - Tópicos Avançados", Nullables.Executar},
+                { "Dynamics - Tópicos Avançados", Dynamics.Executar},
+                { "Genéricos - Tópicos Avançados", Genericos.Executar},
                 #endregion
             });
 
