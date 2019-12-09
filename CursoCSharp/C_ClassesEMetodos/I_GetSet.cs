@@ -58,7 +58,12 @@ namespace CursoCSharp.C_ClassesEMetodos
             //    Cilindrada = cilindrada;
             //}
 
-            // 2 Opção
+            // 2 Opção 
+            /*
+             * Transforma o valor recebido em um valor positivo.
+             * Caso receba um numero negativo ele converte o valor para positivo,
+             * caso receba um valor positivo ele não faz nada
+             */
             //Cilindrada = Math.Abs(cilindrada);
 
             Cilindrada = cilindrada;
