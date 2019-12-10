@@ -1,0 +1,8 @@
+E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\bin\Debug\ExemploExceptions.exe.config
+E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\bin\Debug\ExemploExceptions.exe
+E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\bin\Debug\ExemploExceptions.pdb
+E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\obj\Debug\ExemploExceptions.exe
+E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\obj\Debug\ExemploExceptions.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADB\ExemploExceptions\bin\Debug\ExemploExceptions.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADB\ExemploExceptions\obj\Debug\ExemploExceptions.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADB\ExemploExceptions\obj\Debug\ExemploExceptions.pdb

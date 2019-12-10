@@ -1,0 +1,10 @@
+c:\users\evento\documents\visual studio 2012\Projects\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\bin\Debug\ProvaQuatrodeSetembro.exe.config
+c:\users\evento\documents\visual studio 2012\Projects\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\bin\Debug\ProvaQuatrodeSetembro.exe
+c:\users\evento\documents\visual studio 2012\Projects\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\bin\Debug\ProvaQuatrodeSetembro.pdb
+c:\users\evento\documents\visual studio 2012\Projects\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\obj\Debug\ProvaQuatrodeSetembro.csprojResolveAssemblyReference.cache
+c:\users\evento\documents\visual studio 2012\Projects\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\obj\Debug\ProvaQuatrodeSetembro.exe
+c:\users\evento\documents\visual studio 2012\Projects\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\obj\Debug\ProvaQuatrodeSetembro.pdb
+C:\Users\João Ribeiro\Downloads\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\bin\Debug\ProvaQuatrodeSetembro.exe.config
+C:\Users\João Ribeiro\Downloads\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\obj\Debug\ProvaQuatrodeSetembro.exe
+C:\Users\João Ribeiro\Downloads\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\obj\Debug\ProvaQuatrodeSetembro.pdb
+C:\Users\João Ribeiro\Downloads\ProvaQuatrodeSetembro\ProvaQuatrodeSetembro\obj\Debug\ProvaQuatrodeSetembro.csprojResolveAssemblyReference.cache

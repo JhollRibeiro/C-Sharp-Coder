@@ -1,0 +1,21 @@
+E:\AvContinuada\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe.config
+E:\AvContinuada\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe
+E:\AvContinuada\AvContinuada\AvContinuada\bin\Debug\AvContinuada.pdb
+E:\AvContinuada\AvContinuada\AvContinuada\obj\Debug\AvContinuada.csprojResolveAssemblyReference.cache
+E:\AvContinuada\AvContinuada\AvContinuada\obj\Debug\AvContinuada.exe
+E:\AvContinuada\AvContinuada\AvContinuada\obj\Debug\AvContinuada.pdb
+C:\Users\João Ribeiro\Downloads\AvContinuada32102\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe.config
+C:\Users\João Ribeiro\Downloads\AvContinuada32102\AvContinuada\AvContinuada\obj\Debug\AvContinuada.exe
+C:\Users\João Ribeiro\Downloads\AvContinuada32102\AvContinuada\AvContinuada\obj\Debug\AvContinuada.pdb
+C:\Users\João Ribeiro\Downloads\AvContinuada32102\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe
+C:\Users\João Ribeiro\Downloads\AvContinuada32102\AvContinuada\AvContinuada\bin\Debug\AvContinuada.pdb
+C:\Users\João Ribeiro\Downloads\AvContinuada32102\AvContinuada\AvContinuada\obj\Debug\AvContinuada.csprojResolveAssemblyReference.cache
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada32102 2ADA\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada32102 2ADA\AvContinuada\AvContinuada\obj\Debug\AvContinuada.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada32102 2ADA\AvContinuada\AvContinuada\obj\Debug\AvContinuada.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada 3 - 2ADA\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada 3 - 2ADA\AvContinuada\AvContinuada\obj\Debug\AvContinuada.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada 3 - 2ADA\AvContinuada\AvContinuada\obj\Debug\AvContinuada.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada 3 - 2ADA\AvContinuada\AvContinuada\bin\Debug\AvContinuada.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada 3 - 2ADA\AvContinuada\AvContinuada\bin\Debug\AvContinuada.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvContinuada 3 - 2ADA\AvContinuada\AvContinuada\obj\Debug\AvContinuada.csprojResolveAssemblyReference.cache

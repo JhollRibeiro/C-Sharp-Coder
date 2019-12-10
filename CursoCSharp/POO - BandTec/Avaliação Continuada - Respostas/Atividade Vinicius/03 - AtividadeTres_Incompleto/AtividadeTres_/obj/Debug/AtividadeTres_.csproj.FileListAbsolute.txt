@@ -1,0 +1,2 @@
+c:\users\evento\documents\visual studio 2012\Projects\AtividadeTres_\AtividadeTres_\bin\Debug\AtividadeTres_.exe.config
+E:\03 - AtividadeTres_Incompleto\AtividadeTres_\bin\Debug\AtividadeTres_.exe.config

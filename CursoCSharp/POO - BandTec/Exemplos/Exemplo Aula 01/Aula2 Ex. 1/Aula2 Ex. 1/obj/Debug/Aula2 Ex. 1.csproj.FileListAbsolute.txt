@@ -1,0 +1,9 @@
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 1\Aula2 Ex. 1\bin\Debug\Aula2 Ex. 1.exe.config
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 1\Aula2 Ex. 1\bin\Debug\Aula2 Ex. 1.exe
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 1\Aula2 Ex. 1\bin\Debug\Aula2 Ex. 1.pdb
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 1\Aula2 Ex. 1\obj\Debug\Aula2 Ex. 1.csprojResolveAssemblyReference.cache
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 1\Aula2 Ex. 1\obj\Debug\Aula2 Ex. 1.exe
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 1\Aula2 Ex. 1\obj\Debug\Aula2 Ex. 1.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula01\Aula2 Ex. 1\Aula2 Ex. 1\bin\Debug\Aula2 Ex. 1.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula01\Aula2 Ex. 1\Aula2 Ex. 1\obj\Debug\Aula2 Ex. 1.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula01\Aula2 Ex. 1\Aula2 Ex. 1\obj\Debug\Aula2 Ex. 1.pdb

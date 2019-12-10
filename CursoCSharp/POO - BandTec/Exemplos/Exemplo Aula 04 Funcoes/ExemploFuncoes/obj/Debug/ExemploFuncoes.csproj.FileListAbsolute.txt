@@ -1,0 +1,6 @@
+E:\Visual Studio\ExemploFuncoes\ExemploFuncoes\bin\Debug\ExemploFuncoes.exe.config
+E:\Visual Studio\ExemploFuncoes\ExemploFuncoes\bin\Debug\ExemploFuncoes.exe
+E:\Visual Studio\ExemploFuncoes\ExemploFuncoes\bin\Debug\ExemploFuncoes.pdb
+E:\Visual Studio\ExemploFuncoes\ExemploFuncoes\obj\Debug\ExemploFuncoes.csprojResolveAssemblyReference.cache
+E:\Visual Studio\ExemploFuncoes\ExemploFuncoes\obj\Debug\ExemploFuncoes.exe
+E:\Visual Studio\ExemploFuncoes\ExemploFuncoes\obj\Debug\ExemploFuncoes.pdb

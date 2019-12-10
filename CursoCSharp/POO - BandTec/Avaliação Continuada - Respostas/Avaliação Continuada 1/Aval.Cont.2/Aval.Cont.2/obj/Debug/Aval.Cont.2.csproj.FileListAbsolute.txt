@@ -1,0 +1,11 @@
+Z:\Visual Studio\Aval.Cont.2\Aval.Cont.2\bin\Debug\Aval.Cont.2.exe.config
+Z:\visual studio\Aval.Cont.2\Aval.Cont.2\bin\Debug\Aval.Cont.2.exe
+Z:\visual studio\Aval.Cont.2\Aval.Cont.2\bin\Debug\Aval.Cont.2.pdb
+Z:\visual studio\Aval.Cont.2\Aval.Cont.2\obj\Debug\Aval.Cont.2.exe
+Z:\visual studio\Aval.Cont.2\Aval.Cont.2\obj\Debug\Aval.Cont.2.pdb
+C:\Users\João Ribeiro\Downloads\Avaliação Continuada 1\Aval.Cont.2\Aval.Cont.2\bin\Debug\Aval.Cont.2.exe.config
+C:\Users\João Ribeiro\Downloads\Avaliação Continuada 1\Aval.Cont.2\Aval.Cont.2\obj\Debug\Aval.Cont.2.exe
+C:\Users\João Ribeiro\Downloads\Avaliação Continuada 1\Aval.Cont.2\Aval.Cont.2\obj\Debug\Aval.Cont.2.pdb
+C:\Users\João Ribeiro\Downloads\Avaliação Continuada 1\Aval.Cont.2\Aval.Cont.2\bin\Debug\Aval.Cont.2.exe
+C:\Users\João Ribeiro\Downloads\Avaliação Continuada 1\Aval.Cont.2\Aval.Cont.2\bin\Debug\Aval.Cont.2.pdb
+C:\Users\João Ribeiro\Downloads\Avaliação Continuada 1\Aval.Cont.2\Aval.Cont.2\obj\Debug\Aval.Cont.2.csprojResolveAssemblyReference.cache

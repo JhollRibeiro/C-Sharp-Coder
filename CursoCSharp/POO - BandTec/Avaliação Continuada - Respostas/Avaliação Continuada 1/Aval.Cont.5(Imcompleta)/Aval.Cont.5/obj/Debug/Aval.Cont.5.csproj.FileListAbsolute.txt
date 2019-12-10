@@ -1,0 +1,2 @@
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aval.Cont.5\Aval.Cont.5\bin\Debug\Aval.Cont.5.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\Avaliação Continuada 1\Aval.Cont.5(Imcompleta)\Aval.Cont.5\bin\Debug\Aval.Cont.5.exe.config

@@ -1,0 +1,14 @@
+E:\Visual Studio\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.exe.config
+E:\Visual Studio\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.exe
+E:\Visual Studio\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.pdb
+E:\Visual Studio\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.exe
+E:\Visual Studio\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.csprojResolveAssemblyReference.cache
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Respostas\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont.3\AvalCont.3\bin\Debug\AvalCont.3.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont.3\AvalCont.3\obj\Debug\AvalCont.3.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio\ExemploArrays\ExemploArrays\bin\Debug\ExemploArrays.exe.config
+E:\Visual Studio\ExemploArrays\ExemploArrays\bin\Debug\ExemploArrays.exe
+E:\Visual Studio\ExemploArrays\ExemploArrays\bin\Debug\ExemploArrays.pdb
+E:\Visual Studio\ExemploArrays\ExemploArrays\obj\Debug\ExemploArrays.csprojResolveAssemblyReference.cache
+E:\Visual Studio\ExemploArrays\ExemploArrays\obj\Debug\ExemploArrays.exe
+E:\Visual Studio\ExemploArrays\ExemploArrays\obj\Debug\ExemploArrays.pdb

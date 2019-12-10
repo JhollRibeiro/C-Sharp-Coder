@@ -1,0 +1,15 @@
+E:\Linux_Prof\ExemploExceptions\ExemploExceptions\bin\Debug\ExemploExceptions.exe.config
+E:\Linux_Prof\ExemploExceptions\ExemploExceptions\bin\Debug\ExemploExceptions.exe
+E:\Linux_Prof\ExemploExceptions\ExemploExceptions\bin\Debug\ExemploExceptions.pdb
+E:\Linux_Prof\ExemploExceptions\ExemploExceptions\obj\Debug\ExemploExceptions.csprojResolveAssemblyReference.cache
+E:\Linux_Prof\ExemploExceptions\ExemploExceptions\obj\Debug\ExemploExceptions.exe
+E:\Linux_Prof\ExemploExceptions\ExemploExceptions\obj\Debug\ExemploExceptions.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14b - Classes e Membros Estaticos - Exemplo - 2ADA\ExemploExceptions\bin\Debug\ExemploExceptions.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14b - Classes e Membros Estaticos - Exemplo - 2ADA\ExemploExceptions\obj\Debug\ExemploExceptions.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14b - Classes e Membros Estaticos - Exemplo - 2ADA\ExemploExceptions\obj\Debug\ExemploExceptions.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADA\ExemploExceptions\bin\Debug\ExemploExceptions.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADA\ExemploExceptions\obj\Debug\ExemploExceptions.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADA\ExemploExceptions\obj\Debug\ExemploExceptions.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADA\ExemploExceptions\bin\Debug\ExemploExceptions.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADA\ExemploExceptions\bin\Debug\ExemploExceptions.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 14 - Exceptions - 2ADA\ExemploExceptions\obj\Debug\ExemploExceptions.csprojResolveAssemblyReference.cache

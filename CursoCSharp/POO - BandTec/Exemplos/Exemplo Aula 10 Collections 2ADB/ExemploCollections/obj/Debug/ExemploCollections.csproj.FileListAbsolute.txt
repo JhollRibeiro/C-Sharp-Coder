@@ -1,0 +1,17 @@
+E:\hpoyatos\VisualStudio\ExemploCollections\ExemploCollections\bin\Debug\ExemploCollections.exe.config
+E:\hpoyatos\VisualStudio\ExemploCollections\ExemploCollections\bin\Debug\ExemploCollections.exe
+E:\hpoyatos\VisualStudio\ExemploCollections\ExemploCollections\bin\Debug\ExemploCollections.pdb
+E:\hpoyatos\VisualStudio\ExemploCollections\ExemploCollections\obj\Debug\ExemploCollections.exe
+E:\hpoyatos\VisualStudio\ExemploCollections\ExemploCollections\obj\Debug\ExemploCollections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula10 Collections\ExemploCollections\bin\Debug\ExemploCollections.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula10 Collections\ExemploCollections\obj\Debug\ExemploCollections.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula10 Collections\ExemploCollections\obj\Debug\ExemploCollections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula10 Collections\ExemploCollections\bin\Debug\ExemploCollections.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula10 Collections\ExemploCollections\bin\Debug\ExemploCollections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula10 Collections\ExemploCollections\obj\Debug\ExemploCollections.csprojResolveAssemblyReference.cache
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections 2ADB\ExemploCollections\bin\Debug\ExemploCollections.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections 2ADB\ExemploCollections\obj\Debug\ExemploCollections.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections 2ADB\ExemploCollections\obj\Debug\ExemploCollections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections 2ADB\ExemploCollections\bin\Debug\ExemploCollections.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections 2ADB\ExemploCollections\bin\Debug\ExemploCollections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections 2ADB\ExemploCollections\obj\Debug\ExemploCollections.csprojResolveAssemblyReference.cache

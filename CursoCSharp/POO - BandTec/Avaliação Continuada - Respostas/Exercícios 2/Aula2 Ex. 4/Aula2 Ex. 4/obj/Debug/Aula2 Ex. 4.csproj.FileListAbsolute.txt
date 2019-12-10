@@ -1,0 +1,12 @@
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula2 Ex. 4\Aula2 Ex. 4\bin\Debug\Aula2 Ex. 4.exe.config
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\Aula2 Ex. 4\Aula2 Ex. 4\bin\Debug\Aula2 Ex. 4.exe
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\Aula2 Ex. 4\Aula2 Ex. 4\bin\Debug\Aula2 Ex. 4.pdb
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\Aula2 Ex. 4\Aula2 Ex. 4\obj\Debug\Aula2 Ex. 4.csprojResolveAssemblyReference.cache
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\Aula2 Ex. 4\Aula2 Ex. 4\obj\Debug\Aula2 Ex. 4.exe
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\Aula2 Ex. 4\Aula2 Ex. 4\obj\Debug\Aula2 Ex. 4.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\Nova pasta\Aula2 Ex. 4\Aula2 Ex. 4\bin\Debug\Aula2 Ex. 4.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\Nova pasta\Aula2 Ex. 4\Aula2 Ex. 4\obj\Debug\Aula2 Ex. 4.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\Nova pasta\Aula2 Ex. 4\Aula2 Ex. 4\obj\Debug\Aula2 Ex. 4.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\Nova pasta\Aula2 Ex. 4\Aula2 Ex. 4\bin\Debug\Aula2 Ex. 4.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\Nova pasta\Aula2 Ex. 4\Aula2 Ex. 4\bin\Debug\Aula2 Ex. 4.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\Nova pasta\Aula2 Ex. 4\Aula2 Ex. 4\obj\Debug\Aula2 Ex. 4.csprojResolveAssemblyReference.cache

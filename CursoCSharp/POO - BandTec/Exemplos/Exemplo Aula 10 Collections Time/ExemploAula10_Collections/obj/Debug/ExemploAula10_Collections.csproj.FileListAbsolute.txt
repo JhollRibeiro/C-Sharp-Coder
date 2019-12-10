@@ -1,0 +1,12 @@
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10_Collections\ExemploAula10_Collections\bin\Debug\ExemploAula10_Collections.exe.config
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10_Collections\ExemploAula10_Collections\bin\Debug\ExemploAula10_Collections.exe
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10_Collections\ExemploAula10_Collections\bin\Debug\ExemploAula10_Collections.pdb
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10_Collections\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.csprojResolveAssemblyReference.cache
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10_Collections\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.exe
+C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10_Collections\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections Time\ExemploAula10_Collections\bin\Debug\ExemploAula10_Collections.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections Time\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula10 Collections Time\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 10 Collections Time\ExemploAula10_Collections\bin\Debug\ExemploAula10_Collections.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 10 Collections Time\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 10 Collections Time\ExemploAula10_Collections\obj\Debug\ExemploAula10_Collections.pdb

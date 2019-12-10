@@ -1,0 +1,10 @@
+E:\visual studio\ExemploLacos\ExemploLacos\bin\Debug\ExemploLacos.exe.config
+E:\visual studio\ExemploLacos\ExemploLacos\bin\Debug\ExemploLacos.exe
+E:\visual studio\ExemploLacos\ExemploLacos\bin\Debug\ExemploLacos.pdb
+E:\visual studio\ExemploLacos\ExemploLacos\obj\Debug\ExemploLacos.csprojResolveAssemblyReference.cache
+E:\visual studio\ExemploLacos\ExemploLacos\obj\Debug\ExemploLacos.exe
+E:\visual studio\ExemploLacos\ExemploLacos\obj\Debug\ExemploLacos.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\ExemploLacos\ExemploLacos\bin\Debug\ExemploLacos.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\ExemploLacos\ExemploLacos\obj\Debug\ExemploLacos.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploLacos\ExemploLacos\bin\Debug\ExemploLacos.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploLacos\ExemploLacos\obj\Debug\ExemploLacos.exe

@@ -1,0 +1,9 @@
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 1 Poyatos\Aula 1 Poyatos\bin\Debug\Aula 1 Poyatos.exe.config
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 1 Poyatos\Aula 1 Poyatos\obj\Debug\Aula 1 Poyatos.csprojResolveAssemblyReference.cache
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 1 Poyatos\Aula 1 Poyatos\bin\Debug\Aula 1 Poyatos.exe
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 1 Poyatos\Aula 1 Poyatos\bin\Debug\Aula 1 Poyatos.pdb
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 1 Poyatos\Aula 1 Poyatos\obj\Debug\Aula 1 Poyatos.exe
+c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 1 Poyatos\Aula 1 Poyatos\obj\Debug\Aula 1 Poyatos.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula01\Aula 1 Poyatos\Aula 1 Poyatos\bin\Debug\Aula 1 Poyatos.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula01\Aula 1 Poyatos\Aula 1 Poyatos\obj\Debug\Aula 1 Poyatos.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploAula01\Aula 1 Poyatos\Aula 1 Poyatos\obj\Debug\Aula 1 Poyatos.pdb

@@ -1,0 +1,9 @@
+E:\hpoyatos\VisualStudio\ExemploHeranca\ExemploHeranca\bin\Debug\ExemploHeranca.exe.config
+E:\hpoyatos\VisualStudio\ExemploHeranca\ExemploHeranca\bin\Debug\ExemploHeranca.exe
+E:\hpoyatos\VisualStudio\ExemploHeranca\ExemploHeranca\bin\Debug\ExemploHeranca.pdb
+E:\hpoyatos\VisualStudio\ExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.csprojResolveAssemblyReference.cache
+E:\hpoyatos\VisualStudio\ExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.exe
+E:\hpoyatos\VisualStudio\ExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.pdb
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula11 Heranca\ExemploHeranca\bin\Debug\ExemploHeranca.exe.config
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula11 Heranca\ExemploHeranca\obj\Debug\ExemploHeranca.exe
+C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula11 Heranca\ExemploHeranca\obj\Debug\ExemploHeranca.pdb
