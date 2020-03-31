@@ -115,6 +115,7 @@ namespace CursoCSharp
                 { "Exemplo Path - Explorando a API do C#", ExemploPath.Executar},
                 { "Exemplo DateTime - Explorando a API do C#", ExemploDateTime.Executar},
                 { "Exemplo TimeSpan - Explorando a API do C#", ExemploTimeSpan.Executar},
+                { "Exemplo Renomear Arquivos - Explorando a API do C#", RenomeandoArquivos.Executar},
                 #endregion
                 
                 #region Tópicos Avançados
