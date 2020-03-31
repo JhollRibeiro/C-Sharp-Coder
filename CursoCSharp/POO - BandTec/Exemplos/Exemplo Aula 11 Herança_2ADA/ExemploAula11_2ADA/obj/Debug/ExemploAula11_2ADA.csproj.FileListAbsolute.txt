@@ -1,6 +1,0 @@
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula11_2ADA\ExemploAula11_2ADA\bin\Debug\ExemploAula11_2ADA.exe.config
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula11_2ADA\ExemploAula11_2ADA\bin\Debug\ExemploAula11_2ADA.exe
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula11_2ADA\ExemploAula11_2ADA\bin\Debug\ExemploAula11_2ADA.pdb
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula11_2ADA\ExemploAula11_2ADA\obj\Debug\ExemploAula11_2ADA.csprojResolveAssemblyReference.cache
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula11_2ADA\ExemploAula11_2ADA\obj\Debug\ExemploAula11_2ADA.exe
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula11_2ADA\ExemploAula11_2ADA\obj\Debug\ExemploAula11_2ADA.pdb

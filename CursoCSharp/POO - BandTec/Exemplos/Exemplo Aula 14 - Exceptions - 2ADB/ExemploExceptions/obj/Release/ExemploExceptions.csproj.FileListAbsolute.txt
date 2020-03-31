@@ -1,5 +1,0 @@
-E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\bin\Release\ExemploExceptions.exe.config
-E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\bin\Release\ExemploExceptions.exe
-E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\bin\Release\ExemploExceptions.pdb
-E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\obj\Release\ExemploExceptions.exe
-E:\hpoyatos\VisualStudio\ExemploExceptions\ExemploExceptions\obj\Release\ExemploExceptions.pdb

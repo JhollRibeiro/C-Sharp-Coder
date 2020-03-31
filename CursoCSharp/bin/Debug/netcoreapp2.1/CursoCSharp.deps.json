@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CursoCSharp/1.0.0": {
+        "dependencies": {
+          "Encapsulamento": "1.0.0",
+          "POO_BandTec": "1.0.0"
+        },
+        "runtime": {
+          "CursoCSharp.dll": {}
+        }
+      },
+      "Encapsulamento/1.0.0": {
+        "runtime": {
+          "Encapsulamento.dll": {}
+        }
+      },
+      "POO_BandTec/1.0.0": {
+        "runtime": {
+          "POO_BandTec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POO_BandTec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

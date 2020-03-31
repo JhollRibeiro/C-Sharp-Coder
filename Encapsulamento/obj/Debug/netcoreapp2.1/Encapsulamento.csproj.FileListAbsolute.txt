@@ -1,0 +1,17 @@
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.deps.json
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.pdb
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\Users\Joao\source\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.pdb
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.deps.json
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.dll
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\bin\Debug\netcoreapp2.1\Encapsulamento.pdb
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.csprojAssemblyReference.cache
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.csproj.CoreCompileInputs.cache
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.AssemblyInfoInputs.cache
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.AssemblyInfo.cs
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.dll
+E:\Source\CURSOS\C-Sharp_Cod3r\Encapsulamento\obj\Debug\netcoreapp2.1\Encapsulamento.pdb

@@ -217,6 +217,16 @@
         "runtime": {
           "bin/placeholder/Encapsulamento.dll": {}
         }
+      },
+      "POO_BandTec/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/POO_BandTec.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/POO_BandTec.dll": {}
+        }
       }
     }
   },
@@ -695,30 +705,32 @@
       "type": "project",
       "path": "../Encapsulamento/Encapsulamento.csproj",
       "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
+    },
+    "POO_BandTec/1.0.0": {
+      "type": "project",
+      "path": "../POO_BandTec/POO_BandTec.csproj",
+      "msbuildProject": "../POO_BandTec/POO_BandTec.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Encapsulamento >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "POO_BandTec >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joao\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Joao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
+      "projectPath": "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\CursoCSharp\\CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\CursoCSharp\\obj\\",
+      "outputPath": "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -733,8 +745,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Users\\Joao\\source\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj"
+            "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj": {
+              "projectPath": "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\Encapsulamento\\Encapsulamento.csproj"
+            },
+            "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\POO_BandTec\\POO_BandTec.csproj": {
+              "projectPath": "E:\\Source\\CURSOS\\C-Sharp_Cod3r\\POO_BandTec\\POO_BandTec.csproj"
             }
           }
         }
@@ -749,16 +764,23 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

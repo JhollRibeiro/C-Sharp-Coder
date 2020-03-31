@@ -1,8 +1,0 @@
-E:\hpoyatos\VisualStudio\ExemploEstatico\ExemploEstatico\bin\Debug\ExemploEstatico.exe.config
-E:\hpoyatos\VisualStudio\ExemploEstatico\ExemploEstatico\bin\Debug\ExemploEstatico.exe
-E:\hpoyatos\VisualStudio\ExemploEstatico\ExemploEstatico\bin\Debug\ExemploEstatico.pdb
-E:\hpoyatos\VisualStudio\ExemploEstatico\ExemploEstatico\obj\Debug\ExemploEstatico.exe
-E:\hpoyatos\VisualStudio\ExemploEstatico\ExemploEstatico\obj\Debug\ExemploEstatico.pdb
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploEstatico\ExemploEstatico\bin\Debug\ExemploEstatico.exe.config
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploEstatico\ExemploEstatico\obj\Debug\ExemploEstatico.exe
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploEstatico\ExemploEstatico\obj\Debug\ExemploEstatico.pdb

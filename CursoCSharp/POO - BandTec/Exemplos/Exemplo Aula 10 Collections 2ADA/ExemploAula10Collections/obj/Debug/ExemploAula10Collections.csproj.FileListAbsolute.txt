@@ -1,9 +1,0 @@
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10Collections\ExemploAula10Collections\bin\Debug\ExemploAula10Collections.exe.config
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10Collections\ExemploAula10Collections\bin\Debug\ExemploAula10Collections.exe
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10Collections\ExemploAula10Collections\bin\Debug\ExemploAula10Collections.pdb
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10Collections\ExemploAula10Collections\obj\Debug\ExemploAula10Collections.csprojResolveAssemblyReference.cache
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10Collections\ExemploAula10Collections\obj\Debug\ExemploAula10Collections.exe
-C:\Users\João Ribeiro\Documents\Visual Studio 2012\Projects\ExemploAula10Collections\ExemploAula10Collections\obj\Debug\ExemploAula10Collections.pdb
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 10 Collections 2ADA\ExemploAula10Collections\bin\Debug\ExemploAula10Collections.exe.config
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 10 Collections 2ADA\ExemploAula10Collections\obj\Debug\ExemploAula10Collections.exe
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\Exemplo Aula 10 Collections 2ADA\ExemploAula10Collections\obj\Debug\ExemploAula10Collections.pdb

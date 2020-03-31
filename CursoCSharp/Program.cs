@@ -10,6 +10,7 @@ using CursoCSharp.F_MetodosEFuncoes;
 using CursoCSharp.G_Excecoes;
 using CursoCSharp.H_Api;
 using CursoCSharp.I_TopicosAvancados;
+using POO_BandTec;
 
 namespace CursoCSharp
 {
@@ -122,6 +123,10 @@ namespace CursoCSharp
                 { "Nullables - Tópicos Avançados", Nullables.Executar},
                 { "Dynamics - Tópicos Avançados", Dynamics.Executar},
                 { "Genéricos - Tópicos Avançados", Genericos.Executar},
+                #endregion
+                
+                #region POO_BandTec - Exercícios
+                { "Aula02_Condicionais - POO_BandTec", Aula02_Condicionais.Executar},
                 #endregion
             });
 

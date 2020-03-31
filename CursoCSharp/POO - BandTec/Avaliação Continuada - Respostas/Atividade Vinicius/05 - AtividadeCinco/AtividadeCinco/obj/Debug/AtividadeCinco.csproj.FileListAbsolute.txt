@@ -1,8 +1,0 @@
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeCinco\AtividadeCinco\bin\Debug\AtividadeCinco.exe.config
-F:\05 - AtividadeCinco\AtividadeCinco\bin\Debug\AtividadeCinco.exe.config
-E:\05 - AtividadeCinco\AtividadeCinco\bin\Debug\AtividadeCinco.exe.config
-E:\05 - AtividadeCinco\AtividadeCinco\bin\Debug\AtividadeCinco.exe
-E:\05 - AtividadeCinco\AtividadeCinco\bin\Debug\AtividadeCinco.pdb
-E:\05 - AtividadeCinco\AtividadeCinco\obj\Debug\AtividadeCinco.csprojResolveAssemblyReference.cache
-E:\05 - AtividadeCinco\AtividadeCinco\obj\Debug\AtividadeCinco.exe
-E:\05 - AtividadeCinco\AtividadeCinco\obj\Debug\AtividadeCinco.pdb

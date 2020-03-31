@@ -1,9 +1,0 @@
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeQuatro\AtividadeQuatro\bin\Debug\AtividadeQuatro.exe.config
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeQuatro\AtividadeQuatro\bin\Debug\AtividadeQuatro.exe
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeQuatro\AtividadeQuatro\bin\Debug\AtividadeQuatro.pdb
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeQuatro\AtividadeQuatro\obj\Debug\AtividadeQuatro.csprojResolveAssemblyReference.cache
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeQuatro\AtividadeQuatro\obj\Debug\AtividadeQuatro.exe
-c:\users\evento\documents\visual studio 2012\Projects\AtividadeQuatro\AtividadeQuatro\obj\Debug\AtividadeQuatro.pdb
-E:\04 - AtividadeQuatro\AtividadeQuatro\bin\Debug\AtividadeQuatro.exe.config
-E:\04 - AtividadeQuatro\AtividadeQuatro\obj\Debug\AtividadeQuatro.exe
-E:\04 - AtividadeQuatro\AtividadeQuatro\obj\Debug\AtividadeQuatro.pdb

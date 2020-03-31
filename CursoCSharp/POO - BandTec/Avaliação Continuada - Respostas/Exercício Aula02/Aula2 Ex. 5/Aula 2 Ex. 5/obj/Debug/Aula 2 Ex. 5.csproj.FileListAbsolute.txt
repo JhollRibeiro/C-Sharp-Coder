@@ -1,5 +1,0 @@
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 2 Ex. 5\Aula 2 Ex. 5\bin\Debug\Aula 2 Ex. 5.exe.config
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 2 Ex. 5\Aula 2 Ex. 5\bin\Debug\Aula 2 Ex. 5.exe
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 2 Ex. 5\Aula 2 Ex. 5\bin\Debug\Aula 2 Ex. 5.pdb
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 2 Ex. 5\Aula 2 Ex. 5\obj\Debug\Aula 2 Ex. 5.exe
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aula 2 Ex. 5\Aula 2 Ex. 5\obj\Debug\Aula 2 Ex. 5.pdb

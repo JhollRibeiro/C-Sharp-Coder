@@ -1,5 +1,0 @@
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aval.Cont.4\Aval.Cont.4\bin\Debug\Aval.Cont.4.exe.config
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aval.Cont.4\Aval.Cont.4\bin\Debug\Aval.Cont.4.exe
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aval.Cont.4\Aval.Cont.4\bin\Debug\Aval.Cont.4.pdb
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aval.Cont.4\Aval.Cont.4\obj\Debug\Aval.Cont.4.exe
-c:\users\joão ribeiro\documents\visual studio 2012\Projects\Aval.Cont.4\Aval.Cont.4\obj\Debug\Aval.Cont.4.pdb

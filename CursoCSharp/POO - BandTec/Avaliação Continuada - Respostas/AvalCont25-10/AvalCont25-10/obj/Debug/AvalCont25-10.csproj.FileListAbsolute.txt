@@ -1,8 +1,0 @@
-Z:\Visual Studio\AvalCont25-10\AvalCont25-10\bin\Debug\AvalCont25-10.exe.config
-Z:\Visual Studio\AvalCont25-10\AvalCont25-10\obj\Debug\AvalCont25-10.csprojResolveAssemblyReference.cache
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont25-10\AvalCont25-10\bin\Debug\AvalCont25-10.exe.config
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont25-10\AvalCont25-10\bin\Debug\AvalCont25-10.exe
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont25-10\AvalCont25-10\bin\Debug\AvalCont25-10.pdb
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont25-10\AvalCont25-10\obj\Debug\AvalCont25-10.csprojResolveAssemblyReference.cache
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont25-10\AvalCont25-10\obj\Debug\AvalCont25-10.exe
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Avaliação Continuada - Respostas\AvalCont25-10\AvalCont25-10\obj\Debug\AvalCont25-10.pdb

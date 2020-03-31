@@ -1,9 +1,0 @@
-E:\Visual Studio\ExemploModificadoresAcesso\ExemploModificadoresAcesso\bin\Debug\ExemploModificadoresAcesso.exe.config
-E:\Visual Studio\ExemploModificadoresAcesso\ExemploModificadoresAcesso\bin\Debug\ExemploModificadoresAcesso.exe
-E:\Visual Studio\ExemploModificadoresAcesso\ExemploModificadoresAcesso\bin\Debug\ExemploModificadoresAcesso.pdb
-E:\Visual Studio\ExemploModificadoresAcesso\ExemploModificadoresAcesso\obj\Debug\ExemploModificadoresAcesso.csprojResolveAssemblyReference.cache
-E:\Visual Studio\ExemploModificadoresAcesso\ExemploModificadoresAcesso\obj\Debug\ExemploModificadoresAcesso.exe
-E:\Visual Studio\ExemploModificadoresAcesso\ExemploModificadoresAcesso\obj\Debug\ExemploModificadoresAcesso.pdb
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploModificadoresAcesso\ExemploModificadoresAcesso\bin\Debug\ExemploModificadoresAcesso.exe.config
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploModificadoresAcesso\ExemploModificadoresAcesso\obj\Debug\ExemploModificadoresAcesso.exe
-C:\Users\João Ribeiro\Documents\Disciplinas BandTec\2º Semesntre\POO\Exemplos\ExemploModificadoresAcesso\ExemploModificadoresAcesso\obj\Debug\ExemploModificadoresAcesso.pdb
